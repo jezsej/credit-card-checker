@@ -1,0 +1,11 @@
+{
+  "name": "credit-card-checker",
+  "version": "1.0.0",
+  "description": "Checks credit card validity using Luhn's Algorithm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Ssempijja",
+  "license": "ISC"
+}
